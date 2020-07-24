@@ -1,6 +1,4 @@
-# covid19
-
-A new Flutter application.
+# A new Flutter application. It tracks number of corona cases(confirmed, recovered, active) countrywise and statewise(India). Having light and dark theme. And user can redirect to donation site of WHO through app.
 
 ## Getting Started
 
